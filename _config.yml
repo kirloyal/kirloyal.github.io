@@ -5,8 +5,8 @@ highlighter:      rouge
 
 # Setup
 title:            Hellooo
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'My page'
+description:      Oh-Hun Kwon's pages
 url:              https://kirloyal.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,8 +16,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           Oh-Hun Kwon
+  url:            https://github.com/kirloyal
 
 paginate:         5
 # paginate_path:    '/page:num'
